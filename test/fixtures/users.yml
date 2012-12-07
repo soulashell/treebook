@@ -3,3 +3,9 @@ chava:
   last_name: 'Sotelo'
   email: 'salvadorsotelo@gmail.com'
   profile_name: 'soulashell'
+  
+jim:
+  first_name: 'Jim'
+  last_name: 'Hoskins'
+  email: 'jim@treehouse.com
+  profile_name: 'jimhoskins'
